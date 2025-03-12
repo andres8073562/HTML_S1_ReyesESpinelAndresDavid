@@ -5,7 +5,7 @@
     background-color: tomato;
 
 border: 2px solid black;
-margin: 5px 20px;
+margin: 5px 60px;
 padding: 25px;
 width: 180px;
 
@@ -14,11 +14,44 @@ width: 180px;
 .Info2 {
     background-color: tomato;
 border: 2px solid black;
-margin: 5px 20px;
+margin: -640px 400px;
 padding: 25px;
 width: 180px;
 
 }
 .todo{
     display: flex;
+}
+.Info3{
+    background-color: tomato;
+
+border: 2px solid black;
+margin:  660px 400px;
+padding: 25px;
+width: 180px;
+
+}
+.Info4{
+    background-color: tomato;
+border: 2px solid black;
+margin:  -1830px 780px;
+padding: 25px;
+width: 180px;
+
+}
+.Info5{
+    background-color: tomato;
+border: 2px solid black;
+margin:  1210px 60px;
+padding: 25px;
+width: 180px;
+
+}
+.Info6{
+    
+border: 7px solid black;
+margin:  -2460px 0px;
+padding: 670px;
+width: 10px;
+
 }
