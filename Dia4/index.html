@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <form name="Formulario" method="post" action="Formulario.html">
+    <h1>Formulario de registro</h1>    
+    <input type="text" name="Username" placeholder="Nombre completo" maxlength="50"><br>
+    <input type="text" name="Apellidos" placeholder="Apellido completo" maxlength="50"><br>
+    <br></br>
+    <label for="Tu genero">Selecciona tu generno</label><br>
+    
+    <select name="Tu genero" id="Tu genero">
+        <br><br>
+        <option>hombre</option>
+        <option>Mujer</option>
+    </select>
+    <br></br  >   
+    <input type="email" name="Correo" placeholder="Correo">
+    <br><br>
+    <label for="Tu ciudad">Eliga su ciuadad</label><br>
+    <select name="Tu ciudad" id="Tu ciudad">
+        <option>Bucaramanga</option>
+        <option>Boyaca</option>
+        <option>Bogota</option>
+    </select>
+    <br>
+    <input type="checkbox" id="Notis" checked>
+    <label for="Notis">Deseo recibir información sobre novedades y ofertas.</label>
+    <br>
+    <input type="checkbox" id="Permisos" checked>
+    <labe for="Permisos">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos.</labe>
+    <br>
+    <br>
+    <label for="Comentario">Comentarios adicionales</label>
+    <br>
+    <textarea id="Comentario" name="Comentarios"  rows="4" cols="50">Escribe tu comentario aqui</textarea>
+    <br>
+    <button>Enviar</button>
+    </form>
+
+</body>
+</html>
