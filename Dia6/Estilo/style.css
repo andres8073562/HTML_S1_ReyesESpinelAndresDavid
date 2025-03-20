@@ -1,0 +1,26 @@
+body {
+    width: 1920px;
+    height: 1080px;
+    background-image: linear-gradient(#FFFFFF,#E6E6E6,#808080);
+    display: grid;
+    
+}
+.Tarjeta {
+    position: relative;
+    width: 3400px;
+    height: 2000px;
+    background-color: white;
+    border: 2px solid #707070;
+    place-self: center;
+    top : 500px;
+    left: 1500px;
+   
+
+}
+.Barra_Negra {
+    position: absolute;
+    top: 1000px;
+    left: 100px;
+    width: 1400px;
+    height: 800px;
+}

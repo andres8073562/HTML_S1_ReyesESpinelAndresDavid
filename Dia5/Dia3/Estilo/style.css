@@ -1,0 +1,45 @@
+.Foto {
+    border: 10px solid black;
+    
+    width: 200px;
+    
+    
+ 
+}
+.Academica{
+    border: 10px solid black;
+    text-align: center;
+    font-family: Arial;
+}
+.Experiencia {
+    border: 10px solid black;
+    text-align: center;
+    font-family: Arial;
+}
+.Informacion {
+    border: 10px solid black;
+    text-align: center;
+    font-family: Arial;
+}
+.Habilidades {
+    border: 10px solid black;
+    text-align: center;
+    font-family: Arial;
+}
+.Certificado {
+    border: 10px solid black;
+    text-align: center;
+    font-family: Arial;
+}
+.HojaDeVida {
+    border: 20px solid black;
+    width: 60%;
+    height:40%;
+    
+}
+.Foto2 {
+    border: 10px solid black;
+    border-radius: 50%;
+    margin-left: 17%;
+    
+}
